@@ -6,7 +6,7 @@ A curated list of amazingly awesome technical Black Friday (and Cyber Monday) de
 Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/master/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/smayzes/awesome-blackfriday/blob/master/CODE-OF-CONDUCT.md) for details.
 
 ## Table of Contents
-- [Awesome Black Friday](#awesome-black-friday)
+- [Awesome Black Friday](#awesome-black-friday-cyber-monday)
 - [Software](#software)
     - [Training](#software-training)
 - [Hardware](#hardware)
