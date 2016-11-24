@@ -3,7 +3,7 @@
 A curated list of amazingly awesome technical Black Friday deals.
 
 ## Contributing
-Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/master/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/smayzes/awesome-blackfriday/CODE-OF-CONDUCT.md) for details.
+Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/master/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/smayzes/awesome-blackfriday/blob/master/CODE-OF-CONDUCT.md) for details.
 
 ## Table of Contents
 - [Awesome Black Friday](#awesome-black-friday)
