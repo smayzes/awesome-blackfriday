@@ -1,6 +1,6 @@
 # Awesome Black Friday
 
-A curated list of amazingly awesome technical Black Friday deals.
+A curated list of amazingly awesome technical Black Friday deals. Maintained by the awesome folk at [LaraChat](https://larachat.co) and [PHPUgly](https://phpugly.com/).
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/master/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/smayzes/awesome-blackfriday/blob/master/CODE-OF-CONDUCT.md) for details.
