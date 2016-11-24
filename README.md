@@ -23,8 +23,9 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 *Training resources (videos, books, courses, etc).*
 
 * [Laracasts](https://laracasts.com/sales/2016) - 40% off accounts.
-* [Udemy Vue JS 2](https://www.udemy.com/vuejs-2-the-complete-guide/) - $14 (93% off) Vue JS 2 The Complete Guide (incl. Vuex). Enter "CNETBF2016" for an additional discount.
+* [Udemy Vue JS 2](https://www.udemy.com/vuejs-2-the-complete-guide/) - $14 (93% off) Vue JS 2 The Complete Guide (incl. Vuex). Enter `"CNETBF2016"` for an additional discount.
 * [React for Beginners](https://reactforbeginners.com/) - $63.50 (50% off) React for beginners master package.
+* [Code School](https://www.codeschool.com/pricing) 50% off subscriptions.
 
 ## Creative
 *Resources for creatives (design, video, audio, etc).*
