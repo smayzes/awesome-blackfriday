@@ -27,6 +27,10 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 * [React for Beginners](https://reactforbeginners.com/) - $63.50 (50% off) React for beginners master package.
 * [Code School](https://www.codeschool.com/pricing) 50% off subscriptions.
 
+## Services
+
+* [Namecheap](https://www.namecheap.com/domain-hosting-ssl-deals/black-friday.aspx) Up to 98% off domain registration, hosting, and SSLs.
+
 ## Creative
 *Resources for creatives (design, video, audio, etc).*
 
