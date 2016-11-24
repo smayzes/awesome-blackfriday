@@ -26,11 +26,31 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 * [Udemy Vue JS 2](https://www.udemy.com/vuejs-2-the-complete-guide/) - $14 (93% off) Vue JS 2 The Complete Guide (incl. Vuex). Enter `"CNETBF2016"` for an additional discount.
 * [React for Beginners](https://reactforbeginners.com/) - $63.50 (50% off) React for beginners master package.
 * [Code School](https://www.codeschool.com/pricing) 50% off subscriptions.
+* [The Pragmatic Bookshelf](https://pragprog.com/) Use coupon code `turkeysale2016` and save 40% on ebooks, screencasts, audio books.
+* [ES6 for Everyone](https://es6.io/) Master Package - Regular $139, on sale for $69.50.
+* [Envato Tuts+](https://code.tutsplus.com/tutorials) All courses $3 on Cyber Monday
 
 ## Services
 
 * [Namecheap](https://www.namecheap.com/domain-hosting-ssl-deals/black-friday.aspx) Up to 98% off domain registration, hosting, and SSLs.
-* [Dreamhost](https://www.dreamhost.com/promo/thanksgiving/) Thanksgiving Sale, Shared Hosting  50% off and more. 
+* [Dreamhost](https://www.dreamhost.com/promo/thanksgiving/) Thanksgiving Sale, Shared Hosting  50% off and more.
+* [Codeanywhere](https://codeanywhere.com/) Upgrade to any Yearly Premium plan and get 35% off.
+* [Semplice](http://www.semplicelabs.com/) 40% off w/ code `blackfriday` to build fully responsive case studies & custom branded project pages.
+* [Cloudways](https://platform.cloudways.com/signup) 25% off for 3 months, Code `HOLIDAY25`.
+* [Template Monster](http://www.templatemonster.com/) Save 50% for Thanksgiving.
+
+## Tools
+
+[GitKraken](https://gitkraken.com/) GitKraken Pro single user license, $20 off the first year. Code `gkbf16`.
+[Pluginmate](https://pluginmate.com) All paid Photoshop plugins 30%.
+[Vmware](http://store.vmware.com/store/vmware/en_US/home) Up to 55% off.
+
+## Apps
+
+* [Nintendo](http://happyholidays.nintendo.com/cyber-deals) Save up to 50% on select digital games.
+* [Flic](https://flic.io/) 20% off individual flics.
+* [Final Fantasy Tactics](https://itunes.apple.com/ca/app/final-fantasy-tactics-war/id446760220?mt=8&ign-mpt=uo%3D4) Discounted to $3.99 USD.
+* [Eltima](http://mac.eltima.com/deals/) Eltima's best Mac apps up to 90% off. 
 
 ## Creative
 *Resources for creatives (design, video, audio, etc).*
