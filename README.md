@@ -68,6 +68,6 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 
 ## Other
 
-* [Movies on Google Play](https://play.google.com/store/movies/collection/promotion_4001cc5_movies_cyberweek2016?pcampaignid=V-4_TYPE-StratPromo_LANG-En_GEO-Us_CAMP-10024820_CHAN-Email_DATE-20161124_MSG-100048396_SUBJ-General_LOC-2_MOD-text_CORP-Movies_SLOT-Headline)
+* [Movies on Google Play](https://play.google.com/store/movies/collection/promotion_4001cc5_movies_cyberweek2016) Deals from $7.99.
 
 <sup>This repo is an inspiration of [Awesome PHP](https://github.com/ziadoz/awesome-php) and this Tweet: [https://twitter.com/cwhite_92/status/801553918065082368](https://twitter.com/cwhite_92/status/801553918065082368)</sup>
