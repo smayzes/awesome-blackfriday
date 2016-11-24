@@ -6,6 +6,7 @@ Self-promotion is frowned upon, so please consider seriously whether your deal m
 
 Also, please ensure your pull request adheres to the following guidelines:
 
+* Please do not use any referral links. 
 * Please search previous suggestions before making a new one, as yours may be a duplicate.
 * Enter a meaningful pull request description.
 * Please make an individual commit for each suggestion in a separate pull request.
