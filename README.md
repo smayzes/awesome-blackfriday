@@ -9,6 +9,7 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 - [Awesome Black Friday](#awesome-black-friday)
 - [Software](#software)
     - [Training](#software-training)
+        * [Udemy Vue JS 2 $14 -- 93% off](https://www.udemy.com/vuejs-2-the-complete-guide/) - Vue JS 2 The Complete Guide (incl. Vuex). Enter "CNETBF2016" for an additional discount.
 - [Hardware](#hardware)
 
 
