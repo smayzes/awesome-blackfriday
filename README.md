@@ -39,6 +39,7 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 * [Semplice](http://www.semplicelabs.com/) 40% off w/ code `blackfriday` to build fully responsive case studies & custom branded project pages.
 * [Cloudways](https://platform.cloudways.com/signup) 25% off for 3 months, Code `HOLIDAY25`.
 * [Template Monster](http://www.templatemonster.com/) Save 50% for Thanksgiving.
+* [Digital Ocean](https://twitter.com/digitalocean/status/406392123118714881) $50 credit for one day only! Promo code is: `BLACK50`
 
 ## Tools
 
