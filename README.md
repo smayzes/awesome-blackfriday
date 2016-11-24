@@ -45,6 +45,7 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 * [GitKraken](https://gitkraken.com/) GitKraken Pro single user license, $20 off the first year. Code `gkbf16`.
 * [Pluginmate](https://pluginmate.com) All paid Photoshop plugins 30%.
 * [Vmware](http://store.vmware.com/store/vmware/en_US/home) Up to 55% off.
+* [Source Store](https://madebysource.com/black-friday-2016/) Photoshop & Sketch plugins discounted 50-70% off.
 
 ## Apps
 
