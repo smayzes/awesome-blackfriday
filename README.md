@@ -1,6 +1,6 @@
 # Awesome Black Friday (/Cyber Monday)
 
-A curated list of amazingly awesome technical Black Friday (and Cyber Monday) deals. Maintained by the awesome folk at [LaraChat](https://larachat.co) and [PHPUgly](https://phpugly.com/).
+A curated list of amazingly awesome technical Black Friday (and Cyber Monday) deals. Maintained by the awesome folks at [LaraChat](https://larachat.co) and [PHPUgly](https://phpugly.com/).
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/master/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/smayzes/awesome-blackfriday/blob/master/CODE-OF-CONDUCT.md) for details.
