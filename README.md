@@ -52,7 +52,7 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 * [Flic](https://flic.io/) 20% off individual flics.
 * [Final Fantasy Tactics](https://itunes.apple.com/ca/app/final-fantasy-tactics-war/id446760220?mt=8&ign-mpt=uo%3D4) Discounted to $3.99 USD.
 * [Eltima](http://mac.eltima.com/deals/) Eltima's best Mac apps up to 90% off.
-* [CodeAnywhere](https://codeanywhere.com/editor/) 35% on Discount any Yearly Premium Plan. Coupon Code: BlackCyber2016
+* [CodeAnywhere](https://codeanywhere.com/editor/) 35% on Discount any Yearly Premium Plan. Coupon Code: `BlackCyber2016`.
 
 ## Creative
 *Resources for creatives (design, video, audio, etc).*
