@@ -30,6 +30,7 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 
 * [Pixelmator](https://itunes.apple.com/us/app/pixelmator/id407963104) - $14.99 (50% off) - Full-featured image editor for Mac.
 * [Adobe CreativeCloud](https://creative.adobe.com/plans?sdid=KSODC&sdid=952G4XMS&92X1519156Xa668f26d5b8257ab50ab3f0b9a413fc2) - 20% off annual CC memberships - Adobe's monthly membership for all it's creative products.
+* [Iconfinder](https://www.iconfinder.com/blackfriday) - 70% off the first month.
 
 ## Hardware
 *Hardware specific deals.*
