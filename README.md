@@ -30,6 +30,7 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 ## Services
 
 * [Namecheap](https://www.namecheap.com/domain-hosting-ssl-deals/black-friday.aspx) Up to 98% off domain registration, hosting, and SSLs.
+* [Dreamhost](https://www.dreamhost.com/promo/thanksgiving/) Thanksgiving Sale, Shared Hosting  50% off and more. 
 
 ## Creative
 *Resources for creatives (design, video, audio, etc).*
