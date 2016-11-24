@@ -11,6 +11,7 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
     - [Training](#training)
     - [Creative](#creative)
 - [Hardware](#hardware)
+- [Other](#other)
 
 
 - [Contributing](#contributing)
@@ -51,6 +52,7 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 * [Flic](https://flic.io/) 20% off individual flics.
 * [Final Fantasy Tactics](https://itunes.apple.com/ca/app/final-fantasy-tactics-war/id446760220?mt=8&ign-mpt=uo%3D4) Discounted to $3.99 USD.
 * [Eltima](http://mac.eltima.com/deals/) Eltima's best Mac apps up to 90% off.
+* [CodeAnywhere](https://codeanywhere.com/editor/) 35% on Discount any Yearly Premium Plan. Coupon Code: `BlackCyber2016`.
 
 ## Creative
 *Resources for creatives (design, video, audio, etc).*
@@ -64,5 +66,8 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 
 * [Apple](http://www.apple.com/shop/gifts/one-day-shopping-event) - Come back on Friday.
 
+## Other
+
+* [Movies on Google Play](https://play.google.com/store/movies/collection/promotion_4001cc5_movies_cyberweek2016?pcampaignid=V-4_TYPE-StratPromo_LANG-En_GEO-Us_CAMP-10024820_CHAN-Email_DATE-20161124_MSG-100048396_SUBJ-General_LOC-2_MOD-text_CORP-Movies_SLOT-Headline)
 
 <sup>This repo is an inspiration of [Awesome PHP](https://github.com/ziadoz/awesome-php) and this Tweet: [https://twitter.com/cwhite_92/status/801553918065082368](https://twitter.com/cwhite_92/status/801553918065082368)</sup>
