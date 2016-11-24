@@ -18,6 +18,7 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 
 # Software
 *Software specific deals.*
+* [CodeCanyon](http://go.themeforest.net/cybermonday) - 50% off on Templates & Themes.
 
 ## Training
 *Training resources (videos, books, courses, etc).*
