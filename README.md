@@ -11,6 +11,7 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
     - [Training](#software-training)
 - [Hardware](#hardware)
 
+
 - [Contributing](#contributing)
 
 
@@ -19,10 +20,12 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 
 ## Training
 *Training resources (videos, books, courses, etc).*
-* [Laracasts](https://laracasts.com/sales/2016) - 40% off accounts
+* [Laracasts](https://laracasts.com/sales/2016) - 40% off accounts.
 
 ## Hardware
 *Hardware specific deals.*
+
+* [Apple](http://www.apple.com/shop/gifts/one-day-shopping-event) - Come back on Friday.
 
 
 <sup>This repo is an inspiration of [Awesome PHP](https://github.com/ziadoz/awesome-php) and this Tweet: [https://twitter.com/cwhite_92/status/801553918065082368](https://twitter.com/cwhite_92/status/801553918065082368)</sup>
