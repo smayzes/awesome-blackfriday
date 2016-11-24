@@ -8,7 +8,8 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 ## Table of Contents
 - [Awesome Black Friday](#awesome-black-friday-cyber-monday)
 - [Software](#software)
-    - [Training](#software-training)
+    - [Training](#training)
+    - [Creative](#creative)
 - [Hardware](#hardware)
 
 
