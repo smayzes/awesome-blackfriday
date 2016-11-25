@@ -20,7 +20,7 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 # Software
 *Software specific deals.*
 
-* [Laravel SApark](https://spark.laravel.com/) - Spark sale! $49 for single site licenses, $149 for unlimited site licenses
+* [Laravel Spark](https://spark.laravel.com/) - Spark sale! $49 for single site licenses, $149 for unlimited site licenses
 
 ## Training
 *Training resources (videos, books, courses, etc).*
