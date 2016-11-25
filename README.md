@@ -70,7 +70,7 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 ## Hardware
 *Hardware specific deals.*
 
-* [Apple](http://www.apple.com/shop/gifts/one-day-shopping-event) - Come back on Friday.
+* [Apple](http://www.apple.com/shop/gifts/one-day-shopping-event)
 
 ## Other
 
