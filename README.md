@@ -30,6 +30,9 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 * [The Pragmatic Bookshelf](https://pragprog.com/) Use coupon code `turkeysale2016` and save 40% on ebooks, screencasts, audio books.
 * [ES6 for Everyone](https://es6.io/) Master Package - Regular $139, on sale for $69.50.
 * [Envato Tuts+](https://code.tutsplus.com/tutorials) All courses $3 on Cyber Monday
+* [O'Reilly ebooks](http://shop.oreilly.com/category/deals/cyber-monday.do) Save 50% on All Ebooks & Videos.
+* [Refactoring to Collections](https://adamwathan.me/refactoring-to-collections/) 40% off by applying coupon `blackfriday2016`.
+* [The Majesty of Vue2](https://leanpub.com/vuejs2/c/bfcm) 40% off discount.
 
 ## Services
 
@@ -39,6 +42,7 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 * [Semplice](http://www.semplicelabs.com/) 40% off w/ code `blackfriday` to build fully responsive case studies & custom branded project pages.
 * [Cloudways](https://platform.cloudways.com/signup) 25% off for 3 months, Code `HOLIDAY25`.
 * [Template Monster](http://www.templatemonster.com/) Save 50% for Thanksgiving.
+* [Feedly](https://feedly.com/i/blackfriday) 30% off on the first year of Feedly Pro.
 
 ## Tools
 
