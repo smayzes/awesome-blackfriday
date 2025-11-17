@@ -45,6 +45,7 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 * [Cloudways](https://platform.cloudways.com/signup) 25% off for 3 months, Code `HOLIDAY25`.
 * [Template Monster](http://www.templatemonster.com/) Save 50% for Thanksgiving.
 * [Feedly](https://feedly.com/i/blackfriday) 30% off on the first year of Feedly Pro.
+* [SEOengine.ai](https://seoengine.ai/) 35% off with code BLACKFRIDAY, valid Nov 17 - Dec 7, featuring 5 AI agents, AEO-optimization, and E-E-A-T compliance.
 
 ## Tools
 
