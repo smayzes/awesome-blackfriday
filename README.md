@@ -35,6 +35,7 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 * [O'Reilly ebooks](http://shop.oreilly.com/category/deals/cyber-monday.do) Save 50% on All Ebooks & Videos.
 * [Refactoring to Collections](https://adamwathan.me/refactoring-to-collections/) 40% off by applying coupon `blackfriday2016`.
 * [The Majesty of Vue2](https://leanpub.com/vuejs2/c/bfcm) 40% off discount.
+* [FindExams](https://findexams.com/) - Up to 50% off practice exams for IT and professional certifications (PMP, AWS, and more), applied automatically until Dec 1, 2026.
 
 ## Services
 
