@@ -45,6 +45,7 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 * [Cloudways](https://platform.cloudways.com/signup) 25% off for 3 months, Code `HOLIDAY25`.
 * [Template Monster](http://www.templatemonster.com/) Save 50% for Thanksgiving.
 * [Feedly](https://feedly.com/i/blackfriday) 30% off on the first year of Feedly Pro.
+* [natbox](https://my.natbox.io/products/nat-vps?utm_source=blog&utm_campaign=bf2026) NAT VPS in the EU (root SSH, forwarded IPv4 ports, routed /80 IPv6): yearly plans 50% off for life with code `BLACKFRIDAY`, from $4.50/yr. Friday 27 Nov 2026 only (UTC), 25 servers.
 
 ## Tools
 
