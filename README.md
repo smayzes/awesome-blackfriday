@@ -45,6 +45,7 @@ Please see [CONTRIBUTING](https://github.com/smayzes/awesome-blackfriday/blob/ma
 * [Cloudways](https://platform.cloudways.com/signup) 25% off for 3 months, Code `HOLIDAY25`.
 * [Template Monster](http://www.templatemonster.com/) Save 50% for Thanksgiving.
 * [Feedly](https://feedly.com/i/blackfriday) 30% off on the first year of Feedly Pro.
+* [surl.li](https://surl.li/en) 60% OFF all plans Automatically applied · Valid until Dec 1, 2026.
 
 ## Tools
 
